@@ -1,1 +1,2 @@
-test gui
+print("test gui")
+
